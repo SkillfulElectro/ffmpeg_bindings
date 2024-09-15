@@ -1,0 +1,15 @@
+[package]
+name = "ffmpeg_bindings"
+version = "7.0.2"
+edition = "2021"
+authors = ["ElectroMutex"]
+description = "unsafe ffmpeg v7.0.2 bindings to Rust "
+license = "MIT"
+documentation = "https://docs.rs/ffmpeg_bindings/latest/ffmpeg_bindings/"
+homepage = "https://github.com/SkillfulElectro/ffmpeg_bindings.git"
+repository = "https://github.com/SkillfulElectro/ffmpeg_bindings.git"
+readme = "README.md"
+keywords = ["ffmpeg" , "multimedia" , "cross-platform"]
+categories = ["api-bindings"]
+
+[dependencies]
